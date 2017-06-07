@@ -1,0 +1,39 @@
+{
+  "name": "diamond-loader",
+  "version": "0.1.0",
+  "description": "diamond loader for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "keywords": [
+    "sass",
+    "less",
+    "stylus",
+    "diamond",
+    "diamondpkg",
+    "webpack",
+    "loader"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Hackzzila",
+  "license": "MIT",
+  "dependencies": {
+    "diamondpkg": "github:diamondpkg/diamond#generator-rewrite",
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-webpack": "^1.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamondpkg/diamond-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diamondpkg/diamond-loader/issues"
+  },
+  "homepage": "https://github.com/diamondpkg/diamond-loader#readme"
+}
