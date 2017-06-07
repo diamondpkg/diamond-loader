@@ -26,7 +26,8 @@
   },
   "devDependencies": {
     "eslint": "^3.19.0",
-    "eslint-config-webpack": "^1.2.3"
+    "eslint-config-webpack": "^1.2.3",
+    "eslint-plugin-import": "^2.3.0"
   },
   "repository": {
     "type": "git",
